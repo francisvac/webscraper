@@ -13,3 +13,4 @@ dependencies:
   - pip:
       - nvidia-ml-py3
       - dataclasses
+      - seaborn
