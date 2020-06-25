@@ -2,7 +2,7 @@
 ## Prerequisite
 - docker
 ----------------------
-This tool is developed using [linkedin scraper]:https://github.com/joeyism/linkedin_scraper
+This tool is developed using [linkedin scraper](https://github.com/joeyism/linkedin_scraper)
 ## Env setup
 Build the image
 ```
