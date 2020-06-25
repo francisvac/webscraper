@@ -16,6 +16,7 @@ file_p = open("table.csv", "a+")
 driver = webdriver.Chrome("/usr/bin/chromedriver",chrome_options=chrome_options)
 actions.login(driver, email, password) # if email and password isnt given, it'll prompt in terminal
 
+# people_jaana.txt is a text file which has the links for each profile
 with open("people_jaana.txt") as fp:
     lines = fp.readlines()
     for line in lines:
